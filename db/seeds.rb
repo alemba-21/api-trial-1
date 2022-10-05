@@ -25,5 +25,11 @@ Art.create([
         creator: "Champe",
         year: 1806,
         description: "Thats what i can say about divinica herbs",
-    }
+    },
+    {
+        title: "Ketepa",
+        creator: "Mnyonyez",
+        year: 1996,
+        description: "Hii ndo staff waseh hutumia kushikisha",
+    }   
 ])
